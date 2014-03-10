@@ -1,6 +1,6 @@
 {
   "name": "bland",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Console logger for node, saving you customising just to use console.debug",
   "main": "index.js",
   "scripts": {
