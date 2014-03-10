@@ -1,4 +1,4 @@
-# clogger
+# bland
 
 Basic default console logger using console.blahs (as console.debug doesn't exist in node).
 
@@ -12,5 +12,9 @@ module.exports =
   , debug: console.log
   , trace: console.trace
   }
+
+var logger = require('bland')
+
+logger.info('boring bland logs')
 
 ```
